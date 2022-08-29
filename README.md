@@ -4,6 +4,7 @@
 - 📚 Desenvolvedor e entusiasta de programação
 - 🔧 Hoje trabalho com asp.net
 - 📨 Contate-me no email: andreycode@hotmail.com
+- 📚 Estudos na Beecrowd: - https://www.beecrowd.com.br/judge/pt/profile/711771
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
