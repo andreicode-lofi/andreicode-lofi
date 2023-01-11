@@ -7,7 +7,15 @@
 - 📚 Estudos na Beecrowd: - https://www.beecrowd.com.br/judge/pt/profile/711771
 
 
- 
+ <div align="center">
+  <a href="https://github.com/rafaballerini">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreicode-lofi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreicode-lofi&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
  
   
   <img align="center" alt="Andrey-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
